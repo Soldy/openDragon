@@ -1,0 +1,24 @@
+{
+  "name": "openDragon",
+  "version": "0.0.1",
+  "description": "open dragon manager",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/Soldy/openDragon.git"
+  },
+  "keywords": [],
+  "author": "Soldy",
+  "license": "GPLv3",
+  "bugs": {
+    "url": "https://github.com/Soldy/openDragon/issues"
+  },
+  "homepage": "https://github.com/Soldy/openDragon#readme",
+  "devDependencies": {
+    "interactiveConsole": "0.0.7-alpha0",
+    "nanoTest": "^0.9.9-beta5"
+  }
+}
