@@ -1,7 +1,11 @@
 # About Open Dragon
 
-Fast & Simple & Clean frontend builder
+Fast & Simple & Clean frontend builder. Eat less do more.
 
+#The goal 
+
+to build a ptfmt compatible commonjs based but AMD
+focused code manager with amazing es2015 modules support.
 
 
 #Commands
