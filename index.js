@@ -3,7 +3,7 @@
 
 const openDragonDbBase      = require('openDragonDB').openDragonDbBase;
 const openDragonDirBase     = require('openDragonDir').openDragonDirBase;
-const openDragonFileBase    = require('openDragonFile')openDragonFileBase;
+const openDragonFileBase    = require('openDragonFile').openDragonFileBase;
 const openDragonControlBase = require('openDragonControl')openDragonControlBase;
 const openDragonWatchBase   = require('openDragonWatch')openDragonWatchBase;
 const openDragonHttpdBase   = require('openDragonWatch')openDragonHttpdBase;
