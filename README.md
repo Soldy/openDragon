@@ -2,13 +2,13 @@
 
 Fast & Simple & Clean frontend builder. Eat less do more.
 
-#The goal 
+## The goal 
 
 to build a ptfmt compatible commonjs based but AMD
 focused code manager with amazing es2015 modules support.
 
 
-#Commands
+## Commands
 
 ```
 p / project
@@ -23,7 +23,7 @@ a / admin
 
 
 
-## simple logic
+## Simple logic
 ```
 
 
